@@ -295,6 +295,26 @@ sap.ui.define([
                             </table>
                         </div>
 
+                        <!-- Signature Section -->
+                        <div style="margin-top:20px;margin-bottom:10px;">
+                            <table style="width:100%;border-collapse:collapse;text-align:center;">
+                                <tr>
+                                    <td style="width:33%;padding-top:30px;">
+                                        ___________________________<br>
+                                        <span style="font-size:11px;">Driver Signature</span>
+                                    </td>
+                                    <td style="width:33%;padding-top:30px;">
+                                        ___________________________<br>
+                                        <span style="font-size:11px;">Security Signature</span>
+                                    </td>
+                                    <td style="width:33%;padding-top:30px;">
+                                        ___________________________<br>
+                                        <span style="font-size:11px;">Authorized Signature</span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+
                         <!-- Separator Line -->
                         <hr style="border:none;border-top:2px solid #000;margin:6px 0;padding:0;">
                     </div>

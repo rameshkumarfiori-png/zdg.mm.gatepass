@@ -21,6 +21,6 @@ builder:
           name: ZMM_GATEPASS
           description: Gate Pass Application
           package: ZDG_PKG_ABAP_MM
-          transport: BBCK900949
+          transport: BBCK901419
         exclude:
           - /test/
