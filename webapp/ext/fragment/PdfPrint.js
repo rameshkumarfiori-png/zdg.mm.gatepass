@@ -193,6 +193,16 @@ sap.ui.define([
                                             <span style="width:5%;text-align:center;">:</span>
                                             <span style="flex:1;">${escape(headerData.Name || '')}</span>
                                         </div>
+                                        <div style="display:flex;margin-bottom:3px;font-size:11px;">
+                                            <span style="width:40%;font-weight:bold;">LR  Number</span>
+                                            <span style="width:5%;text-align:center;">:</span>
+                                            <span style="flex:1;">${escape(headerData.LRNumber || '')}</span>
+                                        </div>
+                                        <div style="display:flex;font-size:11px;">
+                                            <span style="width:40%;font-weight:bold;">EWay Bill Number</span>
+                                            <span style="width:5%;text-align:center;">:</span>
+                                            <span style="flex:1;">${escape(headerData.EWayBill || '')}</span>
+                                        </div>
                                     </td>
                                 </tr>
                             </table>
