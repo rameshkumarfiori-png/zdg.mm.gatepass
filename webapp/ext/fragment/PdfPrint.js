@@ -301,15 +301,15 @@ sap.ui.define([
                                 <tr>
                                     <td style="width:33%;padding-top:30px;">
                                         ___________________________<br>
-                                        <span style="font-size:11px;">Driver Signature</span>
-                                    </td>
-                                    <td style="width:33%;padding-top:30px;">
-                                        ___________________________<br>
                                         <span style="font-size:11px;">Security Signature</span>
                                     </td>
                                     <td style="width:33%;padding-top:30px;">
                                         ___________________________<br>
-                                        <span style="font-size:11px;">Authorized Signature</span>
+                                        <span style="font-size:11px;">Quality Signature</span>
+                                    </td>
+                                    <td style="width:33%;padding-top:30px;">
+                                        ___________________________<br>
+                                        <span style="font-size:11px;">Warehouse Signature</span>
                                     </td>
                                 </tr>
                             </table>
