@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Sat Nov 22 2025 16:40:49 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "https://my428751.s4hana.cloud.sap/sap/opu/odata4/sap/zdg_sb_gph/srvd/sap/zdg_sd_gph/0001/",
+    "appName": "zdg.mm.gatepass",
+    "appTitle": "Gate Pass",
+    "appDescription": "Gate Pass ",
+    "appNamespace": "",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.136.11",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.19.5",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Header"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "_item"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
